@@ -1,6 +1,6 @@
 import PyPDF2
 
-pdfFileObj = open("Employee Summary.pdf", "rb")
+pdfFileObj = open("VN2p_2012.pdf", "rb")
 
 pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
 
